@@ -1,0 +1,11 @@
+Algoritmos Elementares de Ordenação 
+
+--utilizam estratégias / técnicas simples( if- else, laços)
+--são eficazes 
+--perdem eficiência para grandes volumes de dados 
+-----------------------------------------------------------------------------------------------------
+
+SÃO 3:
+1. Bubllesort
+2. Selectionsort
+3. Unsertionsort
